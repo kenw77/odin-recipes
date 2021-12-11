@@ -1,1 +1,1 @@
-Basic HTML page to demostrate HTML skills
+Basic HTML page to demonstrate HTML skills
